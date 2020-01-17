@@ -1,0 +1,6 @@
+# 代码检查时忽略的文件
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
